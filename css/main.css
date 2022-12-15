@@ -2,6 +2,14 @@
    text-align: center;
 }
 
-body{
+#contents {
+    text-align: center;
+}
+
+#contents > h3{
+    color: aqua;
+}
+
+body {
     background-color: ivory;
 }
