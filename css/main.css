@@ -22,6 +22,10 @@
     margin: 0px auto;
 }
 
+a {
+    color: black;
+}
+
 body {
     background-color: ivory;
 }
